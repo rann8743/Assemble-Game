@@ -1,8 +1,4 @@
 ##################################################################### #
-# CSCB58 Winter 2022 Assembly Final Project
-# University of Toronto, Scarborough
-#
-# Student: Ran Liu, 1006513569, liuran7, rann.liu@mail.utoronto.ca
 # Bitmap Display Configuration:
 # - Unit width in pixels: 4 (update this as needed)
 # - Unit height in pixels: 4 (update this as needed)
